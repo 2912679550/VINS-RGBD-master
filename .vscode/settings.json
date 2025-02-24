@@ -1,0 +1,13 @@
+{
+    "cmake.sourceDirectory": "/home/vulcan/Robot_locate/V_SLAM/src/VINS-RGBD-master/camera_model",
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/opt/intel/openvino_2023/python",
+        "/opt/intel/openvino_2023/python/python3"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/opt/intel/openvino_2023/python",
+        "/opt/intel/openvino_2023/python/python3"
+    ]
+}
